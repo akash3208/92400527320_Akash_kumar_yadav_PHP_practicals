@@ -1,3 +1,4 @@
+#5. Write a PHP program to print 5 to 10 using For and ForEach.
 <?php
 echo "For Loop:<br>";
 
