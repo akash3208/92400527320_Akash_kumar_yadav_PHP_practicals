@@ -1,3 +1,4 @@
+#3. Write a PHP program for operators in PHP.
 <?php
 $a = 10;
 $b = 5;
