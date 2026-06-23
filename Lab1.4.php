@@ -1,3 +1,4 @@
+#4. Write a PHP program to print current month using if..else & switch case.
 <?php
 $month = date("n");
 
