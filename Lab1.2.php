@@ -1,3 +1,4 @@
+#2. Write a PHP program to find out maximum and minimum number.
 <?php
 $a = 25;
 $b = 40;
