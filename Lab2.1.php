@@ -4,8 +4,8 @@
 <?php
 function collegeInfo()
 {
-    echo "College Name: Marwadi University\n";
-    echo "Course Name: BCA\n";
+    echo "College Name: Marwadi University<br>";
+    echo "Course Name: BCA<br>";
     echo "Academic Year: 2025-26";
 }
 
