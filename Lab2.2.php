@@ -3,8 +3,8 @@
 <?php
 function studentDetails($name, $enrollment, $semester)
 {
-    echo "Student Name: $name\n";
-    echo "Enrollment Number: $enrollment\n";
+    echo "Student Name: $name<br>";
+    echo "Enrollment Number: $enrollment<br>";
     echo "Semester: $semester";
 }
 
