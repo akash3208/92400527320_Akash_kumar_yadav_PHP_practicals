@@ -6,7 +6,7 @@ function calculatePercentage($m1, $m2, $m3, $m4, $m5)
     $total = $m1 + $m2 + $m3 + $m4 + $m5;
     $percentage = ($total / 500) * 100;
 
-    echo "Total Marks: $total\n";
+    echo "Total Marks: $total<br>";
     return $percentage;
 }
 
